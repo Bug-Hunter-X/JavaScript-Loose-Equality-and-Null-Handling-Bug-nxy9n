@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug stemming from loose equality (==) and how to correctly handle null values to prevent unexpected behavior.  The `bug.js` file contains the problematic code, while `bugSolution.js` offers a corrected version that explicitly checks for null values.
